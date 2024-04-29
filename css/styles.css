@@ -412,8 +412,8 @@ background-color: #404bbf;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); 
     transform: translateY(0%);
 }
-.portfolio-list-item:hover, .text-paragraph {
-    transform: translateY(100%); 
+.text-paragraph:hover,  .portfolio-list-item {
+transform: translateY(100%); 
 }
 /*======footer======*/
 
