@@ -414,8 +414,8 @@ background-color: #404bbf;
 .portfolio-list-item:hover, .text-paragraph {
     transform: translateY(100%); 
 }
-.text-paragraph:hover {
-    transform: translateY(0%)
+.text-paragraph:focus {
+    transform: translateY(0%);
 }
 /*======footer======*/
 
