@@ -34,6 +34,9 @@ svg {
     height: 64;
     width: 64;
 }
+.svg-list {
+    fill: #f4f4fd;
+}
 
 /* ======header-style=======*/
 
