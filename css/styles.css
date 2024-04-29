@@ -342,7 +342,10 @@ display: block;
     display: flex;  
     align-items: center; 
     justify-content: center;
-    
+}
+.main-parf:hover, 
+.main-parf:focus {
+background-color: #404bbf
 }
 /*======portfolio=====*/
 
