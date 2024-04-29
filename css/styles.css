@@ -30,7 +30,10 @@ body {
 img {
     display: block;
 }
-
+svg {
+    height: 64;
+    width: 64;
+}
 
 /* ======header-style=======*/
 
