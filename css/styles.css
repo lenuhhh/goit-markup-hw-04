@@ -31,8 +31,8 @@ img {
     display: block;
 }
 svg {
-    height: 64;
-    width: 64;
+    height: 64px;
+    width: 64px;
 }
 .main-list-icons {
     fill: #f4f4fd;
@@ -346,11 +346,9 @@ display: block;
     align-items: center; 
     justify-content: center;
 }
-.main-parf:hover {
-background-color: #404bbf; 
-}
+.main-parf:hover, 
 .main-parf:focus {
-background-color: #404bbf;
+background-color: #404bbf; 
 }
 /*======portfolio=====*/
 
