@@ -30,10 +30,6 @@ body {
 img {
     display: block;
 }
-svg {
-    height: 64px;
-    width: 64px;
-}
 .main-list-icons {
     fill: #f4f4fd;
 }
