@@ -413,8 +413,9 @@ background-color: #404bbf;
     transform: translateY(100%); 
 
 }
-.portfolio-list-item:hover, .text-paragraph {
+.portfolio-list-item:hover, .text-paragraph:hover {
     transform: translateY(0%);
+    transform: translateY(100%); 
 }
 /*======footer======*/
 
