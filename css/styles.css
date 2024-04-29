@@ -325,7 +325,16 @@ display: block;
     padding-bottom: 32px;
     padding-top: 32px;
 }
-
+.team-boxes {
+    display: flex; 
+    justify-content: center; 
+    gap: 24px; 
+}
+.main-lish-text {
+    width: 40px; 
+    height: 40px; 
+    
+}
 /*======portfolio=====*/
 
 .port-container {
