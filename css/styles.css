@@ -451,9 +451,6 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     width: 264px;
-    letter-spacing: 0.02em
-    color:#FFFFFF:
-    margin-bottom: 16px;
 }
 .dives-list {
     display: flex; 
@@ -463,9 +460,6 @@ background-color: #404bbf;
 .paragraph-text {
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em
-    color:#FFFFFF:
-    margin-bottom: 16px;
 }
 .footer-container {
     display: flex; 
