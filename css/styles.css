@@ -486,5 +486,8 @@ background-color: #404bbf;
     align-items: center; 
     justify-content: center; 
     background-color: #31d0aa;
+}
+.image-footer {
+    fill:#f4f4fd;
     
 }
