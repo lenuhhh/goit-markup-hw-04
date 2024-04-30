@@ -346,7 +346,7 @@ display: block;
 .main-parf:hover {
 background-color: #404bbf; 
 }
-..main-parf:focus {
+.main-parf:focus {
     background-color: #404bbf; 
 }
 /*======portfolio=====*/
