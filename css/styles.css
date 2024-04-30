@@ -451,8 +451,13 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     width: 264px;
-        align-items: baseline;
+    align-items: baseline;
     margin-right: 120px;
+    border-radius:50%
+    display: flex;
+    background-color:#4d5ae5;
+        height: 100%
+    width: 100%
 }
 .paragraph-text {
     font-weight: 500;
