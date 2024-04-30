@@ -451,6 +451,8 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     width: 264px;
+        align-items: baseline;
+    margin-right: 120px
 }
 .paragraph-text {
     font-weight: 500
@@ -458,7 +460,4 @@ background-color: #404bbf;
     letter-spacing: 0.02em
 }
 .footer-container {
-    margin-right: 120px;
-        align-items: baseline;
-    margin-right: 120px
 }
