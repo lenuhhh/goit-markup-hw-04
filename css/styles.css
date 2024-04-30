@@ -464,6 +464,10 @@ background-color: #404bbf;
     align-items: baseline;
     margin-right: 120px;
 }
+.footer-container {
+      display: flex;
+    align-items: baseline;  
+}
 .list-text {
     width: 40px; 
     height: 40px; 
@@ -472,4 +476,7 @@ background-color: #404bbf;
 .list-text-title {
     display: flex; 
     gap: 16px; 
+}
+.footer-title {
+    
 }
