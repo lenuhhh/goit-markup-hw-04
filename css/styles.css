@@ -458,8 +458,13 @@ background-color: #404bbf;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#FFFFFF
+    color:#FFFFFF;
     margin-bottom: 16px; 
+    border-radius:50%
+    display: flex;
+    background-color:#4d5ae5;
+    height: 100%
+    width: 100%
 }
 .dives-list {
     display: flex;
