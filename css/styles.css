@@ -457,3 +457,8 @@ background-color: #404bbf;
     lign-items: baseline;
     margin-right: 120px
 }
+.footer-container {
+     display: flex; 
+    lign-items: baseline;
+    margin-right: 120px;
+}
