@@ -455,12 +455,12 @@ background-color: #404bbf;
 .dives-list {
     display: flex; 
     lign-items: baseline;
-    margin-right: 120px;
+    margin-right: 120px
 }
 .paragraph-text {
     font-weight: 500;
     line-height: 1.5;
-    etter-spacing: 0.02em;
+    etter-spacing: 0.02em
     color:#FFFFFF;
     margin-bottom: 16px; 
     
