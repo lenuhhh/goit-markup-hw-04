@@ -452,3 +452,8 @@ background-color: #404bbf;
     color: #f4f4fd;
     width: 264px;
 }
+.footer-list {
+    display: flex; 
+    lign-items: baseline;
+    margin-right: 120px
+}
