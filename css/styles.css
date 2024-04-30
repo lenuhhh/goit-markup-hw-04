@@ -453,7 +453,6 @@ background-color: #404bbf;
     width: 264px;
 }
 .dives-list {
-    display: flex; 
     align-items: baseline;
     margin-right: 120px
 }
