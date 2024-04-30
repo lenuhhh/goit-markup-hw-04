@@ -465,5 +465,11 @@ background-color: #404bbf;
     margin-right: 120px;
 }
 .list-text {
+    width: 40px; 
+    height: 40px; 
     
+}
+.list-text-title {
+    display: flex; 
+    gap: 16px; 
 }
