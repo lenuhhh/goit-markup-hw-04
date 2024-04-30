@@ -499,6 +499,6 @@ background-color: #404bbf;
 .footer-title:hover {
     background-color: #31d0aa;
 }
-.footer-title:focus .footer-title {
+.footer-title:focus {
 background-color: #31d0aa;
 }
