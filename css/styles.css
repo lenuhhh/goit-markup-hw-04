@@ -496,6 +496,6 @@ background-color: #404bbf;
 .image-footer {
     fill:#f4f4fd;
 }
-.footer-title:hover .footer-title:focus{
+.footer-title:hover, .footer-title:focus{
     background-color: #31d0aa;
 }
