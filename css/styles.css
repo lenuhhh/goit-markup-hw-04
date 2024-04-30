@@ -478,5 +478,13 @@ background-color: #404bbf;
     gap: 16px; 
 }
 .footer-title {
+   width: 100%
+    height: 100%
+    background-color:#4d5ae;
+    border-radius:50%
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    background-color: #31d0aa;
     
 }
