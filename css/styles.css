@@ -453,7 +453,12 @@ background-color: #404bbf;
     width: 264px;
 }
 .paragraph-text {
-    font-weight: 500;
-    line-height: 1.5;
+    font-weight: 500
+    line-height: 1.5
     letter-spacing: 0.02em
+}
+.footer-container {
+    margin-right: 120px;
+        align-items: baseline;
+    margin-right: 120px
 }
